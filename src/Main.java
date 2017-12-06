@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("Changes on IDE Intellij Idea");
 
+
+         System.out.println("Changes on GitHub");
     }
 }
